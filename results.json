@@ -1,0 +1,100 @@
+{
+    "1": {
+        "MaintenanceCleaning": 1,
+        "the": 3,
+        "SensorsThe": 1,
+        "sensors": 1,
+        "must": 1
+    },
+    "2": {
+        "Maintenance5.Gently": 1,
+        "but": 2,
+        "firmly": 2,
+        "pull": 2,
+        "the": 8
+    },
+    "3": {
+        "MaintenanceComponent": 1,
+        "/": 1,
+        "AreaRecommendationsCutter": 1,
+        "optionThe": 1,
+        "cutter": 4
+    },
+    "4": {
+        "MaintenanceReal-Time": 1,
+        "Clock": 2,
+        "(RTC)": 2,
+        "BatteryReal": 1,
+        "Time": 1
+    },
+    "5": {
+        "Maintenance": 1,
+        "MaintenanceThis": 1,
+        "section": 1,
+        "provides": 1,
+        "routine": 1
+    },
+    "6": {
+        "Maintenance4.Lift": 1,
+        "the": 6,
+        "platen": 2,
+        "out": 1,
+        "of": 2
+    },
+    "7": {
+        "Maintenance2.Connect": 1,
+        "the": 24,
+        "single": 1,
+        "black": 1,
+        "ground": 2
+    },
+    "8": {
+        "MaintenanceCleaning": 1,
+        "the": 19,
+        "CutterWhile": 1,
+        "media": 2,
+        "path": 1
+    },
+    "9": {
+        "1": 1,
+        "2": 1,
+        "Maintenance4.Repeat": 1,
+        "steps": 1,
+        "and": 5
+    },
+    "10": {
+        "Maintenance2.Wait": 1,
+        "one": 1,
+        "minute": 1,
+        "before": 1,
+        "you": 1
+    },
+    "11": {
+        "Maintenance3.Pull": 1,
+        "the": 13,
+        "printhead": 5,
+        "release": 1,
+        "latch": 1
+    },
+    "12": {
+        "Maintenance6.Clean": 1,
+        "the": 19,
+        "platen": 3,
+        "with": 3,
+        "alcohol-moistened": 1
+    },
+    "13": {
+        "Maintenance4.Wait": 1,
+        "one": 1,
+        "minute": 1,
+        "before": 1,
+        "closing": 1
+    },
+    "14": {
+        "MaintenanceGet": 1,
+        "Zebra": 4,
+        "Supplies": 1,
+        "and": 15,
+        "Accessories": 1
+    }
+}
